@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>FilmStream</ShortName>
+    <Description>Смотреть фильмы, сериалы, аниме онлайн бесплатно в хорошем качестве</Description>
+    <Contact>filmstream0@gmail.com</Contact>
+    <Url type="text/html" template="https://filmstream.com/search/?q={searchTerms}"/>
+    <LongName>Поиск на FilmStream</LongName>
+    <Image height="64" width="64" type="image/png">https://filmstream.com/favicon-64x64.png</Image>
+    <Image height="16" width="16" type="image/vnd.microsoft.icon">https://filmstream.com/favicon.ico</Image>
+    <Developer>FilmStream</Developer>
+    <Attribution>Copyright (c) 2025 FilmStream. All Rights Reserved.</Attribution>
+    <SyndicationRight>open</SyndicationRight>
+    <AdultContent>false</AdultContent>
+    <Language>ru-ru</Language>
+    <OutputEncoding>utf-8</OutputEncoding>
+    <InputEncoding>utf-8</InputEncoding>
+</OpenSearchDescription>
